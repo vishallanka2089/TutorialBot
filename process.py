@@ -1,7 +1,7 @@
 import os
 import openai
 
-openai.api_key = "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"
+openai.api_key = ""
 completion = openai.Completion()
 
 start_sequence = "\nVishal:"
