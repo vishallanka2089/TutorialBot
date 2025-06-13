@@ -5,7 +5,7 @@ import requests
 import telegram.ext
 import telebot
 from process import *
-API_KEY = "5674217157:AAGkDfvbYAcu6xAPRxss1pZrbDsoRGROVL0"
+API_KEY = ""
 bot = telebot.TeleBot(API_KEY)
 session = {}
 
